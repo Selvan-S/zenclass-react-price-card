@@ -1,8 +1,16 @@
-# React + Vite
+# React Price Card
+## About
+This is an Zenclass React - Day -2, React Price Card Task. Built using React + Vite and Bootstrap
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- [Live Preview](https://zen-react-price-card-selvan.netlify.app/)
 
-Currently, two official plugins are available:
+## Run
+Step 1:
+```
+npm install
+```
+Step 2:
+```
+npm run dev
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
